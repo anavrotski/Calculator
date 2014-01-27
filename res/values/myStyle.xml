@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="CodeFont" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">#ABCDEF</item>
+        <item name="android:rotation">-3</item>
+        <item name="android:typeface">serif</item>
+    </style>
+
+    <style name="RoundButton">
+        <item name="android:background">@drawable/roundedbutton</item>
+        <item name="android:animateOnClick">true</item>
+    </style>
+
+</resources>
